@@ -1,0 +1,119 @@
+[
+	{
+		"id": 0,
+		"productName": "NYC TO PARIS",
+		"price": "9000",
+		"productType": "Shoe",
+		"image": "nyc-to-paris.jpg",
+		"colors": "1",
+		"description": [
+			{
+				"mainTitle": "ALWAYS FRESH",
+				"mainDescription": "Inspired by the original that debuted in 1985, the air Jordan 1 Low offers a clean, classic look that's familiar yet always fresh. It's made for casual mode, with an iconic design that goes with everything and never goes out of style."
+			}
+		],
+		"productDetails": [
+			"An encapsulated Air-Sole unit provides lightweight cushioning.",
+			"Genuine leather in the upper offers durability and premium look.",
+			"A solid-rubber outsole enhances traction on a variety of surfaces.",
+			"Shown: Pine Green/White/Black",
+			"Style: 553558-301"
+		]
+	},
+	{
+		"id": 1,
+		"productName": "Air Jordan 1 Phantom",
+		"price": "11500",
+		"productType": "Shoe",
+		"image": "air-jordan-one-phantom.jpg",
+		"colors": "1",
+		"description": [
+			{
+				"mainTitle": "ICONIC LOOK, EVERYDAY COMFORT.",
+				"mainDescription": "The Air Jordan 1 Phantom Shoe is inspired by the first AJ1, offering OG fans a look at how far the jordan brand has come since 1985."
+			}
+		],
+		"productDetails": [
+			"An Air-Sole unit provides lighweight cushioning.",
+			"A leather and synthetic upper offers durability and premium look.",
+			"A solid-rubber outsole enhances traction on a variety of surfaces.",
+			"Shown: Black/Gym Red/Black",
+			"Style: 554724-069"
+		]
+	},
+	{
+		"id": 2,
+		"productName": "Air Jordan 1 Pine",
+		"price": "6500",
+		"productType": "Men's Shoe",
+		"image": "air-jordan-one-pine.jpg",
+		"colors": "1",
+		"description": [
+			{
+				"mainTitle": "KID-RIGHT FLIGHT.",
+				"mainDescription": "The Air Jordan 1 Mid Shoe is inspired by the first AJ1, offering OG fans a look at how far the jordan brand has come since 1985."
+			},
+			{
+				"subTitleOne": "A Classic for Kids",
+				"subDescriptionOne": "A combination of real and synthetic leather provides structure and durability while recreating the shoe's classic profile."
+			},
+			{
+				"subTitleTwo": "Ground Control",
+				"subDescriptionTwo": "The rubber cupsole with herringbone traction pattern provides log-lasting grip on a variety of surfaces."
+			}
+		]
+	},
+	{
+		"id": 3,
+		"productName": "Air Jordan 1 Turbo Green",
+		"price": "17000",
+		"productType": "Shoe",
+		"image": "air-jordan-one-turbo-green.jpg",
+		"colors": "1",
+		"description": [
+			{
+				"mainTitle": "THE ICONIC AJ1, MODERNIZED FOR LIGHWEIGHT COMFORT.",
+				"mainDescription": "The Air Jordan 1 High React combines the lasting appeal of the original AJ1 with soft and springy foam cushioning. Genuine leather and textile materials give a new, modern identity to an enduring icon."
+			},
+			{
+				"subTitleOne": "Plush Cushioning",
+				"subDescriptionOne": "Nike React technology is soft, springy and stable, providing a smooth, cushiony ride."
+			},
+			{
+				"subTitleTwo": "Luxe Materials",
+				"subDescriptionTwo": "Genuine leather on the toe and heel provides durability and support. Textile panels add lightweight texture to the mix."
+			},
+			{
+				"subTitleThree": "Snug Comfort",
+				"subDescriptionThree": "1/2-bootie construction and a plush foam collar offer a snug, comfortable fit."
+			}
+		],
+		"productDetails": [
+			"The rubber outsole with an exaggerated herringbone pattern provides traction.",
+			"Premium thick rope laces",
+			"Shown: Black/Particle Grey/Racer Blue/Ghost Green",
+			"Style: AR5321-002"
+		]
+	},
+	{
+		"id": 4,
+		"productName": "Air Jordan 1 Wheat",
+		"price": "12797",
+		"productType": "Women's Shoe",
+		"image": "air-jordan-one-wheat.jpg",
+		"colors": "1",
+		"description": [
+			{
+				"mainTitle": "ROTROED AND REVERED",
+				"mainDescription": "The Air Jordan 1 was designed for a player who ignited the court and changed the league forever. The Air Jordan 1 Retro High Women's Shoe recals the iconic design elements of the original, including the legendary Wings logo."
+			}
+		],
+		"productDetails": [
+			"Leather and textile upper",
+			"Nike Air cushioning for lighweight comfort",
+			"Rubber cupsole",
+			"Shown: Orchid Mist/Metallic Gold/White",
+			"Style: AO1847-550"
+		]
+	}
+]
